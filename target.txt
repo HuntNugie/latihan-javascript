@@ -1,0 +1,4 @@
+ulang javascript dasar
+tanggal 12 agustus 2025
+-buat game suwit jawa
+-buat game tebak angka
