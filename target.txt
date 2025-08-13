@@ -2,3 +2,7 @@ ulang javascript dasar
 tanggal 12 agustus 2025
 -buat game suwit jawa ✅
 -buat game tebak angka ✅
+
+tanggal 13 agustus 2025
+-buat fungsi untuk menghitung 2 volume dari kubus ✅
+-buat contoh deklarasi function,expressi function,arrow function ✅
