@@ -9,3 +9,6 @@ tanggal 13 agustus 2025
 
 tanggal 14 agustus 2025
 -buat ulang cara penggunaan parameter dan arguments ✅
+
+tanggal 15 agustus 2025
+-buat variable scope ✅
