@@ -12,3 +12,7 @@ tanggal 14 agustus 2025
 
 tanggal 15 agustus 2025
 -buat variable scope ✅
+
+tanggal 16 agustus 2025
+-coba membuat berbagai macam rekursif ✅
+-ulang materi array
