@@ -16,3 +16,7 @@ tanggal 15 agustus 2025
 tanggal 16 agustus 2025
 -coba membuat berbagai macam rekursif ✅
 -ulang materi array ✅
+
+tanggal 17 agustus 2025
+-coba manipulasi array(menambahkan, menghapus, dan menampilkan ) serta gunakan cara manual ✅
+-manipulasi array menggunakan method dari array(join,push,pop,unshift,shift,splice,slice,forEach,map,dan sort) ✅
