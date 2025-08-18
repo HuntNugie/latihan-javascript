@@ -72,3 +72,11 @@ console.log(angka.join("|"))
 angka.sort(function(a,b){
     return a-b // ini akan mengurutkan secara ascending numeric
 })
+
+// filter berfungsi untuk mencari element array, filter akan mengembalikan array baru sehingga  bagus untuk mencari lebih dari 1 nilai
+let cari = angka.filter((e) => e%2==0)
+console.log(cari.join())
+
+// find berfungsi untuk mencari element array sama seperti filter tetapi find tidak akan mengembalikan array baru dan hanya akan mendapatkan 1 element array saja walaupun hasil pencarian nya banyak tetapi hanya akan mengembalikan 1 hasil yang berdasarkan urutan index array nya
+let temukan = angka.find((e) => e==22)
+console.log(temukan)

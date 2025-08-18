@@ -20,3 +20,6 @@ tanggal 16 agustus 2025
 tanggal 17 agustus 2025
 -coba manipulasi array(menambahkan, menghapus, dan menampilkan ) serta gunakan cara manual ✅
 -manipulasi array menggunakan method dari array(join,push,pop,unshift,shift,splice,slice,forEach,map,dan sort) ✅
+
+tanggal 18 agustus 2025 (di kerjakan di folder manipulasi array 17 agustus 2025)
+-manipulasi array menmggunakan method filter dan find ✅
