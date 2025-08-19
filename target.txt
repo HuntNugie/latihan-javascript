@@ -23,3 +23,6 @@ tanggal 17 agustus 2025
 
 tanggal 18 agustus 2025 (di kerjakan di folder manipulasi array 17 agustus 2025)
 -manipulasi array menmggunakan method filter dan find ✅
+
+tanggal 19 agustus 2025
+-membuat function tambah penumpang untuk program juragan angkot ✅
