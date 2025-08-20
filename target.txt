@@ -26,3 +26,7 @@ tanggal 18 agustus 2025 (di kerjakan di folder manipulasi array 17 agustus 2025)
 
 tanggal 19 agustus 2025
 -membuat function tambah penumpang untuk program juragan angkot ✅
+
+tanggal 20 agustus 2025
+-membuat juragan angkot function tambah dan turun penumpang ✅
+-mengulang pembelajaran object 
