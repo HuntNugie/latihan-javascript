@@ -29,4 +29,4 @@ tanggal 19 agustus 2025
 
 tanggal 20 agustus 2025
 -membuat juragan angkot function tambah dan turun penumpang ✅
--mengulang pembelajaran object 
+-mengulang pembelajaran object ✅
