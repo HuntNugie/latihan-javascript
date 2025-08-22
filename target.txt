@@ -34,3 +34,8 @@ tanggal 20 agustus 2025
 tanggal 21 agustus 2025
 -membuat objek (3 cara) ✅
 -membuat juragan angkot tetapi dengan menggunakan objek ✅
+
+tanggal 22 agustus 2025
+-konsep this di chatgpt ✅
+konsep this pada javascript hanya ada di function atau method dimana this akan mengacu dimana function/method itu di panggil function jika di panggil di global scope maka this mengacu pada global function dan method saat pemanggilan method menggunakan object maka this pada method tersebut mengacu pada object nya (kecuali arrow function yang mengikuti dimana ia di tulis) 
+-angkot final
