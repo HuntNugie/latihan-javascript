@@ -39,3 +39,12 @@ tanggal 22 agustus 2025
 -konsep this di chatgpt ✅
 konsep this pada javascript hanya ada di function atau method dimana this akan mengacu dimana function/method itu di panggil function jika di panggil di global scope maka this mengacu pada global function dan method saat pemanggilan method menggunakan object maka this pada method tersebut mengacu pada object nya (kecuali arrow function yang mengikuti dimana ia di tulis) 
 -angkot final ✅
+
+tanggal 23 agustus 2025
+-pengertian DOm verifikasi di chatgpt ✅
+js dom merupakan mempresentasikan element html menjadi dom tree yang mempunyai node di dalamnya dan 1 node itu mempresentasikan masing masing element html,text dan lain lain yang berbentuk object yang dapat kita manipulasi 
+    -root node merupakan sumber/akar dari node node yang ada secara default root node itu adalah document akar nya tetap tag <html>
+    -nodelist merupakan kumpulan banyak node node campur seperti element html,text, dan lain lain
+    -htmlCollection merupakan kumpulan banyak node node yang hanya berjenis element html saja
+htmlCollection bersifat live saat dom berubah akan ikut langsung berubah dan jika nodelist bisa bersifat static ataupun live tergantung tetapi keduanya masih tetap bisa di manipulasi
+-Dom Selection part1
