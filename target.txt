@@ -47,4 +47,5 @@ js dom merupakan mempresentasikan element html menjadi dom tree yang mempunyai n
     -nodelist merupakan kumpulan banyak node node campur seperti element html,text, dan lain lain
     -htmlCollection merupakan kumpulan banyak node node yang hanya berjenis element html saja
 htmlCollection bersifat live saat dom berubah akan ikut langsung berubah dan jika nodelist bisa bersifat static ataupun live tergantung tetapi keduanya masih tetap bisa di manipulasi
--Dom Selection part1
+
+-Dom Selection part1 ✅
