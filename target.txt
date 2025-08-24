@@ -51,4 +51,4 @@ htmlCollection bersifat live saat dom berubah akan ikut langsung berubah dan jik
 -Dom Selection part1 ✅
 
 tanggal 24 agustus 2025
--Dom selection part2 check
+-Dom selection part2 ✅
