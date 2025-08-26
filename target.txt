@@ -52,3 +52,6 @@ htmlCollection bersifat live saat dom berubah akan ikut langsung berubah dan jik
 
 tanggal 24 agustus 2025
 -Dom selection part2 ✅
+
+tanggal 26 agustus 2025
+-Dom manipulation part1 ✅
