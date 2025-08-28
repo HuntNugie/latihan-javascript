@@ -55,3 +55,8 @@ tanggal 24 agustus 2025
 
 tanggal 26 agustus 2025
 -Dom manipulation part1 ✅
+
+28 agustus 2025
+-Dom manipulation part2 ✅
+-Dom events
+-To Do list sederhana
