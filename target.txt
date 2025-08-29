@@ -59,4 +59,7 @@ tanggal 26 agustus 2025
 28 agustus 2025
 -Dom manipulation part2 ✅
 -Dom events ✅
--To Do list sederhana
+-To Do list sederhana (opsional)
+
+29 agustus 2025
+-latihan dom membuat warna ✅

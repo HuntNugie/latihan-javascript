@@ -1,3 +1,15 @@
 {
-    "window.zoomLevel": 1.5
+    "window.zoomLevel": 1.5,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "on"
+    },
+    "tailwindCSS.includeLanguages": {
+        "html": "html"
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "tailwindCSS.emmetCompletions": true
 }
