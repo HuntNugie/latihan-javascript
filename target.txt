@@ -63,3 +63,7 @@ tanggal 26 agustus 2025
 
 29 agustus 2025
 -latihan dom membuat warna ✅
+
+30 agustus 2025
+-latihan game suwit ✅
+-traversal
