@@ -67,3 +67,6 @@ tanggal 26 agustus 2025
 30 agustus 2025
 -latihan game suwit ✅
 -traversal ✅
+
+31 agustus 2025
+-latihan preventDefault ✅
