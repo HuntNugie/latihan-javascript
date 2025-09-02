@@ -73,4 +73,4 @@ tanggal 26 agustus 2025
 
 2 september 2025
 -latihan event bubbling ✅
--latihan image gallery
+-latihan image gallery ✅
