@@ -70,3 +70,7 @@ tanggal 26 agustus 2025
 
 31 agustus 2025
 -latihan preventDefault ✅
+
+2 september 2025
+-latihan event bubbling ✅
+-latihan image gallery
