@@ -77,4 +77,4 @@ tanggal 26 agustus 2025
 
 4 september 2025
 -latihan object.create ✅
--latihan prototype
+-latihan prototype ✅
