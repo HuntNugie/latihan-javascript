@@ -89,3 +89,5 @@ execution context di javascript terbagi menjadi 2 fase
 hoisting merupakan konsep dimana variabel dan function di angkat ke atas dan di set nilai var menjadi undefined dan let, const di masukan ke tdz serta function akan di isi dari functionnya
 
 scope merupakan seperti wilayah yang dapat di akses scope biasanya di pisahkan oleh kurung kurawal({}) dan function sehingga kita tidak dapat mengakses variabel yang ada di dalam local scope 
+
+-latihan closure
