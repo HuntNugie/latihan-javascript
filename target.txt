@@ -78,3 +78,14 @@ tanggal 26 agustus 2025
 4 september 2025
 -latihan object.create ✅
 -latihan prototype ✅
+
+5 september 2025
+-pengertian execution context,hoisting,scope
+execution context di javascript terbagi menjadi 2 fase
+-creation phase -> fase dimana semua function dan variabel(var) di naikan ke atas(hoisting) setelah itu  dibuat dan di set nilai nya undefined, let dan const akan masuk ke tdz(yaitu zona dimana variable belum bisa di panggil) dan function akan di isikan isi function nya
+
+-execution phase -> fase dimana setelah creation phase akan menjalankan program baris per baris di fase ini program akan di jalanakan dari atas ke bawah dan jika ketemu code untuk jalankan function disitu akan terjadi local execution context jadi terjadi kembali creation phase dan execution phase nya setelah terjadi maka javascript akan keluar dari local execution context function dan lanjut menjalankan code lain
+
+hoisting merupakan konsep dimana variabel dan function di angkat ke atas dan di set nilai var menjadi undefined dan let, const di masukan ke tdz serta function akan di isi dari functionnya
+
+scope merupakan seperti wilayah yang dapat di akses scope biasanya di pisahkan oleh kurung kurawal({}) dan function sehingga kita tidak dapat mengakses variabel yang ada di dalam local scope 
