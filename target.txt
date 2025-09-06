@@ -93,7 +93,7 @@ scope merupakan seperti wilayah yang dapat di akses scope biasanya di pisahkan o
 -latihan closure ✅
 
 6 september 2025
-- arrow function 
-- konsep this arrow function
-- high order function
+- arrow function ✅
+- konsep this arrow function ✅
+- high order function ✅
 higher order function merupakan sebuah konsep pembuatan function dimana dalam function dapat menerima inputan function atau return function kembali untuk hasilnya sehingga tercapai yang di sebut functional programming dan abstraksi kode
