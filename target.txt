@@ -100,4 +100,8 @@ higher order function merupakan sebuah konsep pembuatan function dimana dalam fu
 
 7 September 2025
 - menggunakan method method higher order function bawaan javascript ✅
-- latihan durasi video javascript
+- latihan durasi video javascript ✅
+
+8 September 2025
+-template literal ✅
+-latihan template literal
