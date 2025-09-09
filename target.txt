@@ -104,4 +104,8 @@ higher order function merupakan sebuah konsep pembuatan function dimana dalam fu
 
 8 September 2025
 -template literal ✅
--latihan template literal
+-latihan template literal ✅
+
+9 September 2025
+- tagged template literal ✅
+- destructuring assigment
