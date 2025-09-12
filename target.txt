@@ -111,6 +111,6 @@ higher order function merupakan sebuah konsep pembuatan function dimana dalam fu
 - destructuring assigment ✅
 
 10 september 2025
-- destructuring function
-- for of dan for in
-- spread operator
+- destructuring function ✅
+- for of dan for in ✅
+- spread operator ✅
