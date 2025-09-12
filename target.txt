@@ -109,3 +109,8 @@ higher order function merupakan sebuah konsep pembuatan function dimana dalam fu
 9 September 2025
 - tagged template literal ✅
 - destructuring assigment ✅
+
+10 september 2025
+- destructuring function
+- for of dan for in
+- spread operator
