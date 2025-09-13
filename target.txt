@@ -114,3 +114,8 @@ higher order function merupakan sebuah konsep pembuatan function dimana dalam fu
 - destructuring function ✅
 - for of dan for in ✅
 - spread operator ✅
+
+13 September 2025
+-rest parameter
+-asynchronus javascript(callback)
+-ajax
