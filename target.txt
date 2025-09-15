@@ -119,3 +119,6 @@ higher order function merupakan sebuah konsep pembuatan function dimana dalam fu
 -rest parameter
 -asynchronus javascript(callback) ✅
 -ajax ✅
+
+15 September 2025
+-promise
