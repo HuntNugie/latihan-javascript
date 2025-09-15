@@ -117,5 +117,5 @@ higher order function merupakan sebuah konsep pembuatan function dimana dalam fu
 
 13 September 2025
 -rest parameter
--asynchronus javascript(callback)
--ajax
+-asynchronus javascript(callback) ✅
+-ajax ✅
